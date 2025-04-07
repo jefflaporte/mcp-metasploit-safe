@@ -1,0 +1,9 @@
+{
+  "name": "@jefflaporte/mcp-metasploit-safe",
+  "version": "1.0.0",
+  "exports": "./src/mcp-metasploit-safe.ts",
+  "include": [
+    "src/mcp-metasploit-safe.ts",
+    "src/bin/mcp-metasploit-safe.ts"
+  ]
+}
